@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%World&fontSize=90&animation=twinkling)
 
 
- ### 안녕하세요. 👋
- #### Back-end 개발자를 꿈꾸는 Renee 입니다.
+ ## 안녕하세요. 👋
+ ### Back-end 개발자를 꿈꾸는 Renee 입니다.
  
 <br/><br/>
 
