@@ -28,7 +28,7 @@ hello()
 <tr >
  <td><td/>
  <td><p align="right">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Renee&show_icons=true&theme=merko" /></p>
+  <img width="400" src="![Renee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Renee&show_icons=true&theme=merko)" /></p>
    <td/>
 <tr/>
 <br/>
