@@ -5,7 +5,7 @@
  
 <br/><br/>
 
-> Java
+> JAVA
 ```java
 public static void main(String[] args){
       System.out.println("Hello, my world");
@@ -13,7 +13,7 @@ public static void main(String[] args){
 ```
 <br/>
 
->Python
+>PYTHON
 ```Python
 
 def hello():
@@ -24,6 +24,30 @@ hello()
 
 <br/>
 <br/>
+
+
+>Servlet & JSP
+
+<br/>
+<br/>
+
+
+>HTML & CSS & JavaScript
+
+<br/>
+<br/>
+
+
+>SPRING
+
+
+<br/>
+<br/>
+
+
+
+
+
 
 <tr >
  <td><td/>
