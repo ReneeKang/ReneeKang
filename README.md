@@ -32,7 +32,7 @@ hello()
 <br/>
 
 
->HTML & CSS & JavaScript
+>HTML & CSS & JavaScript & Jquery
 
 <br/>
 <br/>
