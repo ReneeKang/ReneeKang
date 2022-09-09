@@ -2,8 +2,25 @@
 
 
  ## hi, there 👋
+ ### 변화를 즐기며 새로운 기술 배우기를 좋아하고 <br> 문제를 해걸할때까지 끈질기게 붙드는 Renee Kang 입니다.
  
 <br/><br/>
+
+## ⚡My Skills
+```
+Java, HTML, CSS, JavaScript, Jquery
+
+Spring 5.x, MyBatis 3.5 
+
+MySQL, Oracle
+
+AWS EC2, RDS, Apache Tomcat
+
+IntelliJ, STS, Visual Studio Code, ERD Cloud, SQL Developer, Workbench, Figma
+
+Git, GitHub, Notion
+
+```
 
 > JAVA
 ```java
@@ -22,27 +39,6 @@ hello()
 
 ```
 
-<br/>
-<br/>
-
-
->Servlet & JSP
-
-<br/>
-<br/>
-
-
->HTML & CSS & JavaScript & Jquery
-
-<br/>
-<br/>
-
-
->SPRING
-
-
-<br/>
-<br/>
 
 
 
