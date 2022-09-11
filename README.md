@@ -32,13 +32,7 @@ Git, GitHub, Notion
 
 
 
-> JAVA
-```java
-public static void main(String[] args){
-      System.out.println("Hello, my world");
-}
-```
-<br/>
+
 
 
 
@@ -49,7 +43,7 @@ public static void main(String[] args){
 
 <tr >
  <td><td/>
- <td><p align="right">
+ <td><p align="left">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=Renee&show_icons=true&theme=merko" /></p>
    <td/>
 <tr/>
@@ -77,6 +71,14 @@ Git, GitHub, Notion
 
 ```
 
+
+> JAVA
+```java
+public static void main(String[] args){
+      System.out.println("Hello, my world");
+}
+```
+<br/>
 
 >PYTHON
 ```Python
