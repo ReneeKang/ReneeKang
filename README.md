@@ -30,14 +30,6 @@ public static void main(String[] args){
 ```
 <br/>
 
->PYTHON
-```Python
-
-def hello():
-    print('Hello, world!')
-hello()
-
-```
 
 
 
@@ -58,6 +50,21 @@ hello()
 
 <!--
 ![Renee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Renee&show_icons=true&theme=merko)
+
+
+
+
+
+>PYTHON
+```Python
+
+def hello():
+    print('Hello, world!')
+hello()
+
+```
+
+
 
 
 
