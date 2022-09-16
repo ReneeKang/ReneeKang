@@ -1,40 +1,40 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%World&fontSize=90&animation=twinkling)
 
 
- ## hi, there 👋
- ### 원리부터 차근차근 다져나가며<br> 변화를 즐기고 새로운 기술 배우기를 좋아하는 Renee Kang 입니다.
+ ## 안녕하세요 👋
+ ### 원리를 중시하고 문제해결을 겁내지 않는 개발자 강은혜 입니다.
  
 <br/><br/>
 
+
+
 ## ⚡My Skills
->Languages
-```
-Java, HTML, CSS, JavaScript, Jquery
+#### Languages & Library
 
-```
->Framework & DB & Server
-```
-Spring 5.x, MyBatis 3.5 
+<img src="https://img.shields.io/badge/java | 11-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/javascript | ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/jquery | 1.1-0769AD?style=for-the-badge&logo=jquery&logoColor=black"> <img src="https://img.shields.io/badge/ajax-0B2C4A?style=for-the-badge&logo=ajax&logoColor=white"> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
 
-MySQL, Oracle
+#### Framework & DB & Server
+<img src="https://img.shields.io/badge/Spring | 5.0.7-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/MyBatis | 3.5-26689A?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/Spring Security | 5.0.7-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white"> <img src="https://img.shields.io/badge/Apache Tomcat | 9.0.52-C71A36?style=for-the-badge&logo=Apache Tomcat&logoColor=white">
 
-AWS EC2, RDS, Apache Tomcat
+<img src="https://img.shields.io/badge/MySQL | 8.0-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=&logoColor=white"> 
 
-```
->Tools
-```
+#### AWS
+<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white"> <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white"> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
 
-IntelliJ, STS, Visual Studio Code, ERD Cloud, SQL Developer, Workbench, Figma
 
-Git, GitHub, Notion
+#### Tool
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"> <img src="https://img.shields.io/badge/ERD Cloud-0052CC?style=for-the-badge&logo=ERDCloud&logoColor=white">
+<img src="https://img.shields.io/badge/Notion-F7DF1E?style=for-the-badge&logo=Notion&logoColor=black">
 
-```
+<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"> <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white"> <img src="https://img.shields.io/badge/MySQL Workbench | 8.0-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Figma-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"> 
+
+
 
 <br>
 
 ## ⚡My Project
 
-### 1. Tripssoda - 커뮤니티형 여행 플랫폼 
+### 1️⃣ Tripssoda - 커뮤니티형 여행 플랫폼 
 #### - 기간 / 규모 <br>
 32일 / 590H / 일 18.4H (2022.8)
 25,588 라인, 344 파일, 테이블 59개(549 컬럼)
@@ -43,7 +43,7 @@ Git, GitHub, Notion
 ![image](https://user-images.githubusercontent.com/100551394/189524555-56f464e8-035e-4242-8d7d-a69f11a6fdd5.png)
 
 
-### 2. HIVE - 하이버를 벤치마킹한 의류 쇼핑몰 사이트
+### 2️⃣ HIVE - 하이버를 벤치마킹한 의류 쇼핑몰 사이트
 #### - 기간 / 규모 <br>
 16일 / 224H / 일 12H (2022.7)
 14,718 라인, 204 파일, 테이블 18개(107컬럼)
