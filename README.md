@@ -41,9 +41,12 @@
 
 ### 1️⃣ Tripssoda - 커뮤니티형 여행 플랫폼 
 #### - 기간 / 규모 <br>
-32일 / 590H / 일 18.4H (2022.8)
+32일 / 590H / 일 18.4H (2022.8) <br>
 25,588 라인, 344 파일, 테이블 59개(549 컬럼)
 
+#### - 개발 환경 <br>
+Java 11, Spring5.0, MySQL8.0, MyBatis 3.5, AWS RDS, EC2
+<br>
 
 ![image](https://user-images.githubusercontent.com/100551394/189524555-56f464e8-035e-4242-8d7d-a69f11a6fdd5.png)
 
@@ -52,8 +55,14 @@
 
 ### 2️⃣ HIVE - 하이버를 벤치마킹한 의류 쇼핑몰 사이트
 #### - 기간 / 규모 <br>
-16일 / 224H / 일 12H (2022.7)
+16일 / 224H / 일 12H (2022.7) <br>
 14,718 라인, 204 파일, 테이블 18개(107컬럼)
+
+#### - 개발 환경 <br>
+Java 11, Spring5.0, MySQL8.0, MyBatis 3.5, AWS RDS, EC2
+
+<br>
+
 
 ![image](https://user-images.githubusercontent.com/100551394/189524322-c8b84670-623c-47e0-8d2d-949ecf620100.png)
 
