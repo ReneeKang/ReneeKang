@@ -7,6 +7,18 @@
 <br/><br/>
 
 
+  <h1>📬 How to reach me? 📬</h1>
+    <h3>My Email &nbsp&nbsp👉 &nbsp&nbsp
+    <a href="mailto:"kezy1992@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white">
+    </a></h3>
+    <h3>Tech Blog &nbsp&nbsp👉 &nbsp&nbsp
+    <a href="https://reprisal.tistory.com/">
+    <img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github">
+    </a></h3></br>
+
+
+
 
 ## ⚡My Skills
 #### Languages & Library
