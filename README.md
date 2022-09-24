@@ -32,7 +32,7 @@
 #### Framework & DB & Server
 <img src="https://img.shields.io/badge/Spring | 5.0.7-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/MyBatis | 3.5-26689A?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/Apache Tomcat | 9.0.52-C71A36?style=for-the-badge&logo=Apache Tomcat&logoColor=white">
 
-<img src="https://img.shields.io/badge/MySQL | 8.0-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Oracle | 8.0-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=&logoColor=white"> 
+<img src="https://img.shields.io/badge/MySQL | 8.0-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Oracle | 8.0-4479A1?style=for-the-badge&logo=Oracle&logoColor=white">   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=&logoColor=white"> 
 
 <br>
 
