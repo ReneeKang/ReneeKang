@@ -1,10 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Renee%Kang&fontSize=90&animation=twinkling)
 
 
- ## 안녕하세요 👋
- ### 원리를 중시하고 문제해결을 겁내지 않는 개발자 강은혜 입니다.
- 
-‘책임감’을 가지고 맡은 일은 끝까지 해내는 개발자
+ ### 안녕하세요 Renee 입니다 👋
  
 <br/><br/>
 
