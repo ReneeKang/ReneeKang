@@ -1,44 +1,42 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Renee%Kang&fontSize=90&animation=twinkling)
 
-
- ### 안녕하세요 Renee 입니다 👋
  
-<br/><br/>
-
-
-  <h2>📬 How to reach me? 📬</h2>
-    <h3>My Email &nbsp&nbsp👉 &nbsp&nbsp
+<br/>
+  <h3>📬 How to reach me? 📬</h3>
+    <h4>Email &nbsp&nbsp👉 &nbsp&nbsp
     <a href="mailto:"reneedmsp@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white">
-    </a></h3>
-    <h3>Tech Blog &nbsp&nbsp👉 &nbsp&nbsp
+    </a></h4>
+    <h4>Tech Blog &nbsp&nbsp👉 &nbsp&nbsp
+                                                                                                     <a href="https://renee.tistory.com/">
+    <img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=tistory">
+    </a>
     <a href="https://blog.naver.com/gracekang61">
-    <img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github">
-    </a></h3></br>
+    <img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=naver">
+    </a></h4></br>
 
 
 
 
-## ⚡My Skills
-#### Languages & Library
-
-<img src="https://img.shields.io/badge/java | 11-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/javascript | ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/jquery | 1.1-0769AD?style=for-the-badge&logo=jquery&logoColor=black"> <img src="https://img.shields.io/badge/ajax-0B2C4A?style=for-the-badge&logo=ajax&logoColor=white"> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-
-<br>
-
-#### Framework & DB & Server
-<img src="https://img.shields.io/badge/Spring | 5.0.7-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/MyBatis | 3.5-26689A?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/Apache Tomcat | 9.0.52-C71A36?style=for-the-badge&logo=Apache Tomcat&logoColor=white">
-
-<img src="https://img.shields.io/badge/MySQL | 8.0-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Oracle | 8.0-4479A1?style=for-the-badge&logo=Oracle&logoColor=white">   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=&logoColor=white"> 
+### 💻 Tech Skills
+                                                                                           
+<img src="https://img.shields.io/badge/java | 11-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/javascript | ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=black"> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
 
 <br>
 
-#### AWS
+<img src="https://img.shields.io/badge/Spring | 5.0.7-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/SpringBoot -6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"> <img src="https://img.shields.io/badge/MyBatis | 3.5-26689A?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/Apache Tomcat | 9.0.52-C71A36?style=for-the-badge&logo=Apache Tomcat&logoColor=white">
+
+<img src="https://img.shields.io/badge/MySQL | 8.0-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Oracle | 8.0-C71A36?style=for-the-badge&logo=Oracle&logoColor=white">
+
+<img src="https://img.shields.io/badge/React -0769AD?style=for-the-badge&logo=React&logoColor=white">
+                                                                                                         
+
+<br>
+
 <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white"> <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white"> 
 
 <br>
 
-#### Tool
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"> <img src="https://img.shields.io/badge/ERD Cloud-0052CC?style=for-the-badge&logo=ERDCloud&logoColor=white">
 <img src="https://img.shields.io/badge/Notion-F7DF1E?style=for-the-badge&logo=Notion&logoColor=black">
 
@@ -48,7 +46,7 @@
 
 <br>
 
-## 💻My Project
+### 💻My Project
 
 #### 발표 영상
 https://www.youtube.com/watch?v=TRbOZjNVDFk&ab_channel=%EB%82%A8%EA%B6%81%EC%84%B1%EC%9D%98%EC%A0%95%EC%84%9D%EC%BD%94%EB%94%A9
@@ -163,3 +161,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+                                          
+                                          
+                                          
