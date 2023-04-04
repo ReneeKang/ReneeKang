@@ -49,7 +49,7 @@
 ### 💻My Project
 
 #### 발표 영상
-https://www.youtube.com/watch?v=TRbOZjNVDFk&ab_channel=%EB%82%A8%EA%B6%81%EC%84%B1%EC%9D%98%EC%A0%95%EC%84%9D%EC%BD%94%EB%94%A9
+https://www.youtube.com/watch?v=TRbOZjNVDFk 
 
 ### 1️⃣ Tripssoda - 커뮤니티형 여행 플랫폼 
 #### - 기간 / 규모 <br>
